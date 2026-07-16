@@ -1,6 +1,6 @@
 [build-system]
 requires = ["setuptools>=77.0.3", "wheel"]
-build-backend = "setuptools.build_meta"]
+build-backend = ["setuptools.build_meta"]
 [tool.setuptools]
 packages = ["easy_to_maths"]
 [project]
